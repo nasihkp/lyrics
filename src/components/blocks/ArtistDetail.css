@@ -1,0 +1,31 @@
+/* For WebKit browsers (Chrome, Safari) */
+.lyrics-data::-webkit-scrollbar {
+    width: 8px; /* Scrollbar width */
+}
+
+.lyrics-data::-webkit-scrollbar-track {
+    background: #000; /* Scroll background */
+}
+
+.lyrics-data::-webkit-scrollbar-thumb {
+    background: #ccc; /* Scrollbar in grey-white */
+    border-radius: 10px; /* Rounded scrollbar */
+}
+
+.lyrics-data::-webkit-scrollbar-thumb:hover {
+    background: #ddd; /* Lighter on hover */
+}
+
+@media (max-width: 768px) {
+  .lyrics-data {
+    font-size: 1rem;
+    padding: 10px;
+  }
+
+  .artistprofile{
+    height: 400px;
+    width: 300px !important;
+    /* width: auto !important; */
+    /* border: 1px solid red !important; */
+  }
+}

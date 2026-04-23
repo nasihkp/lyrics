@@ -1,0 +1,315 @@
+[
+  {
+    "artistId": "1",
+    "name": "Divine",
+    "bio": "Vivian Fernandes, known by his stage name Divine, is an Indian rapper from Mumbai. He gained popularity with the release of his song 'Meri Gully Mein' and is considered a pioneer of the Mumbai hip-hop scene.",
+    "profileImage": "https://filmfare.wwmindia.com/content/2019/jan/divine-web1547188255.jpg",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/vivianakadivine/",
+      "twitter": "https://twitter.com/VivianDivine",
+      "youtube": "https://www.youtube.com/channel/UC7QvP4wv1ND3F-2pSr6UQCQ",
+      "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+    }
+  },
+  {
+    "artistId": "2",
+    "name": "Sidhu Moose Wala",
+    "bio": "Shubhdeep Singh Sidhu, known as Sidhu Moose Wala, was a Punjabi singer, rapper, and songwriter associated with Punjabi music and cinema. He was renowned for his energetic performances and impactful lyrics.",
+    "profileImage": "https://yt3.googleusercontent.com/ytc/AIdro_kiQJ0Hhp0O-tdaY1dy81-gSNujjccUlWstnpFr686ZlMk=s900-c-k-c0x00ffffff-no-rj",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/sidhu_moosewala/",
+      "twitter": "https://twitter.com/sidhu_moosewala",
+      "youtube": "https://www.youtube.com/channel/UCq8wnyZ5E55h9E0YwJQ8XQg",
+      "spotify": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
+    }
+  },
+  {
+    "artistId": "3",
+    "name": "Raftaar",
+    "bio": "Dilin Nair, professionally known as Raftaar, is an Indian rapper, lyricist, dancer, and music composer. He began his career as a dancer before turning to music, where he gained fame for his rapid-fire rap style.",
+    "profileImage": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQ3WGFyBpyq0EgNmESNmlXStaD1R1DTRmcHOESCwEHbhue1LX49rGo2U4vseLsfNvlm",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/raftaarmusic/",
+      "twitter": "https://twitter.com/Raftaarmusic",
+      "youtube": "https://www.youtube.com/user/RaftaarMusic",
+      "spotify": "https://open.spotify.com/artist/5dNvOv3FzR0Jn9k2mAjmdP"
+    }
+  },
+  {
+    "artistId": "4",
+    "name": "Yo Yo Honey Singh",
+    "bio": "Hirdesh Singh, known by his professional name Yo Yo Honey Singh, is an Indian music producer, Indi-pop singer, and film actor. He started as a session and recording artist and became one of the highest-paid music producers in Bollywood.",
+    "profileImage": "https://i.scdn.co/image/ab6761610000e5ebbc7e4fffd515b47ff1ebbc1f",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/yoyohoneysingh/",
+      "twitter": "https://twitter.com/asliyoyo",
+      "youtube": "https://www.youtube.com/user/YYHoneySingh",
+      "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+    }
+  },
+  {
+    "artistId": "5",
+    "name": "Badshah",
+    "bio": "Aditya Prateek Singh Sisodia, known by his stage name Badshah, is an Indian rapper and singer known for his Hindi, Haryanvi, and Punjabi songs. He started his career in 2006 alongside Yo Yo Honey Singh in his group Mafia Mundeer.",
+    "profileImage": "https://i.pinimg.com/736x/6b/4f/94/6b4f94d65cd0631e49d5683a107598a6.jpg",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/badboyshah/",
+      "twitter": "https://twitter.com/Its_Badshah",
+      "youtube": "https://www.youtube.com/user/officialbadshah",
+      "spotify": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+    }
+  },
+  {
+    "artistId": "6",
+    "name": "Emiway Bantai",
+    "bio": "Bilal Shaikh, known professionally as Emiway Bantai, is an independent Indian rapper and hip-hop artist. He gained popularity with his song 'Machayenge' and is known for his independent approach to music.",
+    "profileImage": "https://yt3.googleusercontent.com/J57IFf8mbIo6wye99z3cxJE5Gmrjupg3fpRYTrsANZcXCxpD26LXzGenaqhHmZBhq0RtYg32pA=s900-c-k-c0x00ffffff-no-rj",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/emiway_bantai/",
+      "twitter": "https://twitter.com/emiwaybantai",
+      "youtube": "https://www.youtube.com/user/emiwaybantai",
+      "spotify": "https://open.spotify.com/artist/1vxw6aYJls2oq3gW0DujAo"
+    }
+  },
+  {
+    "artistId": "7",
+    "name": "MC Stan",
+    "bio": "Altaf Shaikh, known professionally as MC Stan, is an Indian rapper, lyricist, and music producer. He is known for his unique style and has been a significant figure in the Indian hip-hop scene.",
+    "profileImage": "https://wallpapers.com/images/hd/mc-stan-rolling-stone-india-0xbxfx0pjdzwtwc9.jpg",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/m___c___stan/",
+      "twitter": "https://twitter.com/mcstan",
+      "youtube": "https://www.youtube.com/channel/UCv7Qebxl5eHl9A6oqmN1pVQ",
+      "spotify": "https://open.spotify.com/artist/1lVDBUHFHFGNogAAeu0SRi"
+    }
+  },
+  {
+    "artistId": "8",
+    "name": "Brodha V",
+    "bio": "Vighnesh Shivanand, known by his stage name Brodha V, is an Indian rapper, lyricist, and music producer. He is known for blending Indian classical music with hip-hop and has been a part of the Indian rap scene since the early 2000s.",
+    "profileImage": "https://www.thesouthfirst.com/wp-content/uploads/2022/09/Brodha-V2-scaled.jpg",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/brodhav/",
+      "twitter": "https://twitter.com/brodhav",
+      "youtube": "https://www.youtube.com/user/BrodhaV",
+      "spotify": "https://open.spotify.com/artist/0fthuvtQ8LQpsI8tP1L8"
+    }
+  },
+  {
+    "artistId": "9",
+    "name": "Neha Kakkar",
+    "bio": "Neha Kakkar is an Indian playback singer who began performing at religious events at the age of four. She participated in the second season of Indian Idol and has since become one of the most successful and popular playback singers in India.",
+    "profileImage": "https://www.bollywoodhungama.com/wp-content/uploads/2020/12/Instagram%E2%80%99s-most-followed-singer-in-India-Neha-Kakkar-gets-candid-on-her-life-%E2%80%98Nehu-Da-Vyah%E2%80%99-and-her-%E2%80%98Nehearts%E2%80%99-1.jpg",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/nehakakkar/",
+      "twitter": "https://twitter.com/iAmNehaKakkar",
+      "youtube": "https://www.youtube.com/user/NehaKakkarOfficial",
+      "spotify": "https://open.spotify.com/artist/5f4QpKfy7ptCHwIgCkQJv4"
+    }
+  },
+  {
+    "artistId": "10",
+    "name": "Arijit Singh",
+    "bio": "Arijit Singh is an Indian playback singer and music composer. He is known for his soulful voice and has been featured in numerous Bollywood films, making him one of the most successful and versatile singers in India.",
+    "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaO9oNwP0hT6rCxrP1_xtB2Q_ORBTsB3cmw&s",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/arijitsingh/",
+      "twitter": "https://twitter.com/raiisonai",
+      "youtube": "https://www.youtube.com/user/arijitsingh",
+      "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+    }
+  },
+  {
+    "artistId": "11",
+    "name": "Diljit Dosanjh",
+    "bio": "Diljit Dosanjh is an Indian singer, actor, and television presenter who works in Punjabi and Hindi cinema. He is recognized as one of the leading artists in the Indian music industry and has also made a mark in acting.",
+    "profileImage": "https://assets.vogue.in/photos/66e40db0b4d351b26c9c1390/3:4/w_2560%2Cc_limit/GettyImages-1484340653.jpg",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/diljitdosanjh/",
+      "twitter": "https://twitter.com/diljitdosanjh",
+      "youtube": "https://www.youtube.com/user/DiljitDosanjh",
+      "spotify": "https://open.spotify.com/artist/6ZdbA3wwj1Q8fE5hoiUk2a"
+    }
+  },
+  {
+    "artistId": "12",
+    "name": "King",
+    "bio": "Arpan Kumar Chandel, known by his stage name King, is an Indian singer, rapper, and songwriter. He gained fame through his participation in the MTV reality show 'MTV Hustle' and is known for his versatile music style.",
+    "profileImage": "https://i.pinimg.com/736x/45/85/83/458583a3dcedb1094d6623e352112c0e.jpg",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/ifeelking/",
+      "twitter": "https://twitter.com/ifeelking",
+      "youtube": "https://www.youtube.com/channel/UCN-9Q0G3a1P8UeB5JZy97oA",
+      "spotify": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+    }
+  },
+  {
+    "artistId": "13",
+    "name": "KRSNA",
+    "bio": "Krishna Kaul, known by his stage name KRSNA, is an Indian rapper and songwriter. He is known for his lyrical prowess and has been a significant figure in the Indian hip-hop scene.",
+    "profileImage": "https://rollingstoneindia.com/wp-content/uploads/2024/07/KRSNA-4-scaled-e1719899143192.jpg",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/ikrishnakoul/",
+      "twitter": "https://twitter.com/ikrishnakoul",
+      "youtube": "https://www.youtube.com/user/krishnakoul",
+      "spotify": "https://open.spotify.com/artist/1lVDBUHFHFGNogAAeu0SRi"
+    }
+  },
+  {
+    "artistId": "14",
+    "name": "Jubin Nautiyal",
+    "bio": "Jubin Nautiyal is an Indian playback singer and performer. He has recorded songs for various Bollywood films and has also released numerous independent singles.",
+    "profileImage": "https://blackhattalent.com/wp-content/uploads/2023/08/Jubin-Nautiyal.jpg",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/jubin_nautiyal/",
+      "twitter": "https://twitter.com/JubinNautiyal",
+      "youtube": "https://www.youtube.com/channel/UCiQYl7uFYf6mEYT0iJMSaUw",
+      "spotify": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+    }
+  },
+  {
+    "artistId": "15",
+    "name": "Shreya Ghoshal",
+    "bio": "Shreya Ghoshal is an Indian playback singer. She has received numerous awards and accolades and is one of the most established playback singers in India.",
+    "profileImage": "https://blackhattalent.com/wp-content/uploads/2023/08/Shreya-Ghoshal5-scaled.jpg",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/shreyaghoshal/",
+      "twitter": "https://twitter.com/shreyaghoshal",
+      "youtube": "https://www.youtube.com/user/shreyaghoshal",
+      "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+    }
+  },
+  {
+    "artistId": "16",
+    "name": "Guru Randhawa",
+    "bio": "Guru Randhawa is an Indian singer, songwriter, and music composer known for his Punjabi, Bhangra, Indi-pop, and Bollywood music.",
+    "profileImage": "https://i.pinimg.com/736x/36/ae/a6/36aea6d7a0498ced742175a7abab1a5f.jpg",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/gururandhawa/",
+      "twitter": "https://twitter.com/GuruOfficial",
+      "youtube": "https://www.youtube.com/user/GuruRandhawa",
+      "spotify": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+    }
+  },
+  {
+    "artistId": "17",
+    "name": "Drake",
+    "bio": "Aubrey Drake Graham is a Canadian rapper, singer, and actor. Known for blending hip-hop with R&B, he gained fame with albums like 'Take Care' and 'Views,' dominating global charts.",
+    "profileImage": "https://cdn.britannica.com/34/258834-050-9E9EF435/rapper-drake-performs-on-stage-during-lil-baby-and-friends-birthday-celebration-2022.jpg",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/champagnepapi/",
+      "twitter": "https://twitter.com/Drake",
+      "youtube": "https://www.youtube.com/user/DrakeOfficial",
+      "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+    }
+  },
+  {
+    "artistId": "18",
+    "name": "Taylor Swift",
+    "bio": "Taylor Swift is an American singer-songwriter known for her narrative-driven music across genres like pop, country, and indie. She’s one of the best-selling artists globally.",
+    "profileImage": "https://i.scdn.co/image/ab67616d00001e020b04da4f224b51ff86e0a481",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/taylorswift/",
+      "twitter": "https://twitter.com/taylorswift13",
+      "youtube": "https://www.youtube.com/user/TaylorSwift",
+      "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+    }
+  },
+  {
+    "artistId": "19",
+    "name": "Beyoncé",
+    "bio": "Beyoncé Knowles-Carter is an American singer, songwriter, and performer. A global icon, she’s celebrated for albums like 'Lemonade' and her dynamic live performances.",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/1/17/Beyonc%C3%A9_at_The_Lion_King_European_Premiere_2019.png",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/beyonce/",
+      "twitter": "https://twitter.com/Beyonce",
+      "youtube": "https://www.youtube.com/user/beyonce",
+      "spotify": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+    }
+  },
+  {
+    "artistId": "20",
+    "name": "The Weeknd",
+    "bio": "Abel Tesfaye, known as The Weeknd, is a Canadian singer and producer. His dark, cinematic style blends R&B and pop, with hits like 'Blinding Lights' dominating charts.",
+    "profileImage": "https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/theweeknd/",
+      "twitter": "https://twitter.com/theweeknd",
+      "youtube": "https://www.youtube.com/user/TheWeekndOfficial",
+      "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+    }
+  },
+  {
+    "artistId": "21",
+    "name": "Billie Eilish",
+    "bio": "Bill Iran Eilish is an American singer-songwriter known for her unique voice and genre-defying music. She rose to fame with 'Bad Guy' and won multiple Grammy Awards.",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Billie_Eilish_at_Pukkelpop_Festival_-_18_AUGUST_2019_%2801%29_%28cropped%29.jpg",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/billieeilish/",
+      "twitter": "https://twitter.com/billieeilish",
+      "youtube": "https://www.youtube.com/channel/UCiGm_E4ZwYSHV3bcW1pnSeQ",
+      "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+    }
+  },
+  {
+    "artistId": "22",
+    "name": "Ed Sheeran",
+    "bio": "Ed Sheeran is a British singer-songwriter known for his soulful voice and acoustic-pop hits like 'Shape of You.' He’s a global chart-topper with a versatile style.",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Ed_Sheeran-6886_%28cropped%29.jpg",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/teddysphotos/",
+      "twitter": "https://twitter.com/edsheeran",
+      "youtube": "https://www.youtube.com/user/EdSheeran",
+      "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  },
+  {
+    "artistId": "23",
+    "name": "Adele",
+    "bio": "Adele Laurie Blue Adkins is a British singer-songwriter renowned for her powerful vocals and emotional ballads like 'Hello.' She’s won numerous awards for her soulful music.",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Adele_2016.jpg",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/adele/",
+      "twitter": "https://twitter.com/Adele",
+      "youtube": "https://www.youtube.com/user/AdeleVEVO",
+      "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+    }
+  },
+  {
+    "artistId": "24",
+    "name": "Kendrick Lamar",
+    "bio": "Kendrick Lamar is an American rapper and songwriter known for his thought-provoking lyrics and albums like 'DAMN.' He’s a leading figure in modern hip-hop.",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/7/76/Kendrick_Lamar_2018_Pulitzer_Prize_ceremony_%283x4_cropped%29.jpg",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/kendricklamar/",
+      "twitter": "https://twitter.com/kendricklamar",
+      "youtube": "https://www.youtube.com/user/KendrickLamarVEVO",
+      "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+    }
+  },
+  {
+    "artistId": "25",
+    "name": "Rihanna",
+    "bio": "Robyn Rihanna Fenty is a Barbadian singer, actress, and entrepreneur. Known for hits like 'Umbrella,' she’s a global pop icon with a versatile career.",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Rihanna_Fenty_2018.png",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/badgalriri/",
+      "twitter": "https://twitter.com/rihanna",
+      "youtube": "https://www.youtube.com/user/RihannaVEVO",
+      "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+    }
+  },
+  {
+    "artistId": "26",
+    "name": "Post Malone",
+    "bio": "Austin Richard Post, known as Post Malone, is an American rapper, singer, and songwriter. His genre-blending style, seen in hits like 'Circles,' has made him a global star.",
+    "profileImage": "https://yt3.googleusercontent.com/fZiaikWALrL81W0HkhVp_kaeI2AeaRQ8dLcGxY4Le2rggZltP_cdNOGpzSTTFizrTWdahACe=s900-c-k-c0x00ffffff-no-rj",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/postmalone/",
+      "twitter": "https://twitter.com/PostMalone",
+      "youtube": "https://www.youtube.com/user/PostMaloneVEVO",
+      "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+    }
+  }
+
+]

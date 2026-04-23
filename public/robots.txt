@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin
+Disallow: /login
+Disallow: /register
+Disallow: /api/
+
+Sitemap: https://lyricsstall.vercel.app/sitemap.xml
